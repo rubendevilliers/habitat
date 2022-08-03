@@ -4,6 +4,6 @@ import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
-    <div>Welcome to habitat</div>
+    <div>Welcome to habitat development</div>
   )
 }
